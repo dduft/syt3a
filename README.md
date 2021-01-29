@@ -6,6 +6,7 @@
 # aSDFHJ
 # Ich war gestern hier aber es hat den commit nicht übernommen | Alexander Croé
 # Gian ist am ende auch hier 
+# Niklas war hier
 ````bash
 git clone git@github.com:dduft/syt3a.git
 ````
